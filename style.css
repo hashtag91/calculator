@@ -1,0 +1,7 @@
+QWidget{
+   background-color: #424242; 
+}
+#result_label{
+    background-color: #a1a1a1;
+    border-style: none;
+}
